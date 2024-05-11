@@ -6,7 +6,7 @@
 - 👯 I'm looking to collaborate on Backend projects and WPF Applications
 - 🤔 I'm looking for help with "How to create custom components using Bootstrap". 
 - 📫 How to reach me: you can send me a mail: fkn3388@hotmail.com 
-- 😄 Pronouns: /Fʊrkʌn/
+- 😄 Pronouns: he/him
 
 
 
