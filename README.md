@@ -5,6 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetfurkandur" alt="ahmetfurkandur" /></a> </p>
 
+- 🔭 I’m currently working on [No To Israel!](notoisrael.net)
+
+- 🌱 I’m currently learning **Vue3, .net 8 and advanced tools like RabbitMQ**
+
+- 👯 I’m looking to collaborate on **ERP Projects**
+
+- 🤝 I’m looking for help with **Any projects**
+
+- 💬 Ask me about **.net and vue**
+
+- 📫 How to reach me **fkn3388@hotmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ahmet-furkan-dur-2068b8214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ahmet-furkan-dur-2068b8214" height="30" width="40" /></a>
