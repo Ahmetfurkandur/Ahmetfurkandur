@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetfurkandur" alt="ahmetfurkandur" /></a> </p>
 
-- 🔭 I’m currently working on **Nilvera Yazılım**
+- 🔭 I’m currently working at **Nilvera Yazılım**
 
 - 🌱 I’m currently learning **Vue3, .net 8 and advanced tools like RabbitMQ**
 
