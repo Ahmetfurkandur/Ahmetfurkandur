@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetfurkandur" alt="ahmetfurkandur" /></a> </p>
 
-- 🔭 I’m currently working at **Nilvera Yazılım**
+- 🔭 I’m currently working on my **CrmFlow** Project
 
 - 🌱 I’m currently learning **Vue3, .net 8 and advanced tools like RabbitMQ**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **.net and vue**
 
-- 📫 How to reach me **fkn3388@hotmail.com**
+- 📫 How to reach me **ahmetfurkanduur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
